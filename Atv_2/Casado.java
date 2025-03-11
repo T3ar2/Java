@@ -12,10 +12,10 @@ public class Casado {
             }
         while (!((casado == 's') || (casado == 'n') || (casado == 'N') || (casado == 'S')));
         if ((casado == 's') || (casado == 'S')){
-          System.out.println(nome + "é casado.");
+          System.out.println(nome + " é casado.");
           }
           else if ((casado == 'n')|| (casado == 'N')){
-          System.out.println(nome + "não é casado.");
+          System.out.println(nome + " não é casado.");
           }
     }
 }
