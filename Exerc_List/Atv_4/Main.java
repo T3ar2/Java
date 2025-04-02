@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
     public static void main (String[] args){
         Scanner scanner = new Scanner(System.in);
-        Vehicle vehicle = new Vehicle("toyota", "toyota supra mk4", 250);
+        Vehicle vehicle = new Vehicle("toyota", "Supra mk4", 250, 2019);
 
         vehicle.getSettings();
 
