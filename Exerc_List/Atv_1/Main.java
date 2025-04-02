@@ -1,4 +1,13 @@
 import java.util.Scanner;
+
+
+
+//01) Um banco deseja um sistema que gerencie contas bancárias. Cada conta deve ter um número,
+//um titular e um saldo. O saldo só pode ser alterado através de depósitos e saques. O saque só pode
+//ser realizado se houver saldo suficiente.
+//Requisito: Crie uma classe ContaBancaria com métodos para depósito e saque, aplicando
+//encapsulamento para evitar acesso direto ao saldo.
+
 public class Main {
 
     public static void main(String[] args) {
