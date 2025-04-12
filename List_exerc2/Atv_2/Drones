@@ -1,0 +1,13 @@
+public class Drones{
+    private String num_series;
+    private int alt_atual;
+
+    Drones(String num_series, int alt_atual){
+        this.num_series = num_series;
+        this.alt_atual = alt_atual;
+    }
+
+    public void Voar(){
+        System.out.println("O drone número " + num_series + " está voando em uma altura de " + alt_atual + " metros");
+    }
+}
