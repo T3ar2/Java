@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/List_exerc2/Atv_4/Atv_4.iml" filepath="$PROJECT_DIR$/List_exerc2/Atv_4/Atv_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exerc_List/Exerc_List.iml" filepath="$PROJECT_DIR$/Exerc_List/Exerc_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List_exerc2/List_exerc2.iml" filepath="$PROJECT_DIR$/List_exerc2/List_exerc2.iml" />
+    </modules>
+  </component>
+</project>
