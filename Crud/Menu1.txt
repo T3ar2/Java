@@ -1,0 +1,19 @@
+1;0;1;Customer Registration
+1;0;2;Product Registration
+1;0;3;Sale Registration
+1;0;4;End
+2;1;1;Customer Alteration
+2;1;2;Customer Inquiry
+2;1;3;Customer Exclusion
+2;1;4;Customer Inclusion
+2;1;5;Return
+2;2;1;Product Alteration
+2;2;2;Product Inquiry
+2;2;3;Product Exclusion
+2;2;4;Product Inclusion
+2;2;5;Return
+2;3;1;Sale Alteration
+2;3;2;Sale Inquiry
+2;3;3;Sale Exclusion
+2;3;4;Sale Inclusion
+2;3;5;Return
